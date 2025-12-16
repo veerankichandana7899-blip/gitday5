@@ -5,11 +5,11 @@ def greet(name):
 
 name = "madhu"
 message = greet(name)
-
+ 
 print(message)
 
-for i in range(1, 6):
-    print("Number:", i)
+for x in range(1, 6):
+    print("Number:", x)
 
 print("Program finished successfully")
 
