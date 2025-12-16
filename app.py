@@ -3,7 +3,7 @@
 def greet(name):
     return f"Hello, {name}!"
 
-name = "World"
+name = "madhu"
 message = greet(name)
 
 print(message)
