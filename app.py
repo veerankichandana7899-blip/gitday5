@@ -2,8 +2,7 @@
 
 def greet(name):
     return f"Hello, {name}!"
-
-name = "madhu"
+name = "dileep"
 message = greet(name)
  
 print(message)
