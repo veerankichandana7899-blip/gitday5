@@ -7,7 +7,7 @@ message = greet(name)
  
 print(message)
 
-for x in range(1, 30):
+for x in range(1, 10):
     print("Number:", x)
 
 print("Program finished successfully")
